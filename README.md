@@ -1,0 +1,1 @@
+Acestea sunt temele prin care am invatat sa scriu cod in python.
